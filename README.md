@@ -3,4 +3,4 @@ Public word bomb script for ROBLOX that supports humanlike autotyping and more! 
 
 This script will work as long as raw.githubusercontent.com/Artzified/WordBombDictionary/refs/heads/main/words.txt exists.
 
-I won't be working on this script anymore, and it will be replaced by wordbomb-exp2, a next-generation script.
+# This repository has been archived on the 1st of January, 2025. There won't be any upcoming changes to this script. This script will be replaced by it's more significant counterpart "wordbomb-exp2".
